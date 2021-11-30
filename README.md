@@ -25,4 +25,4 @@ The repository contains code for the paper titled, "BP-Net: Efficient Deep Learn
 - After 10 fold cross validation training, the best model is available at [model.pt](model/model.pt).
 
 ## Publication Link
-Yet to be published
+http://arxiv.org/abs/2111.14558
